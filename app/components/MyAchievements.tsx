@@ -10,6 +10,7 @@ const MyAchievements = () => {
       { name: "Central Hub", description: "Centralized data hub, built with React.js." },
       { name: "Tournament", description: "A competitive event management system." },
       { name: "Aeolus", description: "" },
+      { name: "composite", description: "" },
       { name: "Digital survey", description: "" },
     ];
   
@@ -17,7 +18,7 @@ const MyAchievements = () => {
   
     return (
       <>
-        <AchievementsCollapsible title="Projects" projects={currentProjects} />
+        <AchievementsCollapsible title="My Achievements Projects" projects={currentProjects} />
       </>
     );
   };

@@ -1,4 +1,3 @@
-/* eslint-disable react/no-unescaped-entities */
 
 "use client";
 
@@ -19,7 +18,7 @@ const ReactNextjsMastery = () => {
         React & Next.js Mastery
       </h2>
       <p className="text-lg text-gray-300">
-        I'm committed to mastering advanced concepts in React, following the
+        I&apos;m committed to mastering advanced concepts in React, following the
         comprehensive guide provided by the{" "}
         <a
           href="https://roadmap.sh/react"

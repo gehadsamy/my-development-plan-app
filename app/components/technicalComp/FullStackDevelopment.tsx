@@ -1,4 +1,3 @@
-/* eslint-disable react/no-unescaped-entities */
 
 "use client";
 
@@ -19,7 +18,7 @@ const FullStackDevelopment = () => {
         Full Stack Development Mastery
       </h2>
       <p className="text-lg text-gray-300">
-        Aiming to be a proficient full-stack developer, I'm following the
+        Aiming to be a proficient full-stack developer, I&apos;m following the
         <a
           href="https://roadmap.sh/full-stack"
           className="text-red-400 hover:text-red-300 underline"

@@ -1,4 +1,3 @@
-/* eslint-disable react/no-unescaped-entities */
 
 "use client";
 
@@ -20,7 +19,7 @@ const FrontendPerformanceBestPractices = () => {
       </h2>
       <p className="text-lg text-gray-300">
         Ensuring a smooth user experience is paramount, and optimizing frontend
-        performance plays a crucial role. I'm harnessing the guidelines provided
+        performance plays a crucial role. I&apos;m harnessing the guidelines provided
         by the   
         <a
           href="https://roadmap.sh/best-practices/frontend-performance"

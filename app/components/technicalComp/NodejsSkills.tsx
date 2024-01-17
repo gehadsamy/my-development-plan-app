@@ -1,4 +1,3 @@
-/* eslint-disable react/no-unescaped-entities */
 
 
 "use client";
@@ -18,7 +17,7 @@ const NodejsSkills = () => {
     >
       <h2 className="text-3xl font-bold text-gray-100 mb-4">Node.js Skills</h2>
       <p className="text-lg text-gray-300">
-        Over the next 6 months, I'm committed to enhancing my Node.js skills,
+        Over the next 6 months, I&apos;m committed to enhancing my Node.js skills,
         with a focus on backend development, RESTful API integration, and
         performance optimization, as guided by the{" "}
         <a

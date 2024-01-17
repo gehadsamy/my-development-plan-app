@@ -1,4 +1,3 @@
-/* eslint-disable react/no-unescaped-entities */
 "use client";
 
 import React from "react";
@@ -26,7 +25,7 @@ const DesignSystemMastery = () => {
         >
           Design System roadmap on roadmap.sh
         </a>
-        , I'll focus on key concepts such as design tokens, component libraries,
+        , I&apos;ll focus on key concepts such as design tokens, component libraries,
         and design principles.
       </p>
       <Card title="Key Focus Areas">

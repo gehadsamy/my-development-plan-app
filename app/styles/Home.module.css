@@ -1,0 +1,20 @@
+.container {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .title {
+    font-size: 2em;
+    margin-bottom: 0.5em;
+  }
+  
+  .description {
+    font-size: 1.2em;
+    margin-bottom: 1em;
+  }
+  
+  .link {
+    color: blue;
+    text-decoration: none;
+    margin: 0 10px;
+  }
